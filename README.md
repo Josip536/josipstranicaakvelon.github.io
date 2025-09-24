@@ -82,7 +82,7 @@
     <div class="naslov">
     <div class="ime-i-kapa">
             <h1>univ. mag. oec. Josip Tadić</h1>
-            <a href="Potvrda_o_diplomiranju.pdf" target="_blank">
+            <a href="Josip_Tadić_Potvrda_o_diplomiranju.pdf" target="_blank">
             <img src="kapa.jpg" alt="kapa" class="kapa">
         </a>
         </div>
